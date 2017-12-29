@@ -1,0 +1,7 @@
+[package]
+name = "hangman-demo"
+version = "0.1.0"
+authors = ["Dom <dom@code>"]
+
+[dependencies]
+rand = "0.3"
